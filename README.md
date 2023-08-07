@@ -16,13 +16,7 @@ To view and interact with the Omnifood website locally, follow these steps:
 git clone https://github.com/l-esposti/omnifood.git
 ```
 
-2. Navigate the project directory:
-
-```shell
-cd OmnifoodProject
-```
-
-3. Open the "index.html" file in your preferred web browser.
+2. Open the "index.html" file in your preferred web browser.
 
 That's it! You should now be able to explore the Omnifood website on your local machine.
 
