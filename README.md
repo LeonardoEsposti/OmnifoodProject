@@ -13,7 +13,7 @@ To view and interact with the Omnifood website locally, follow these steps:
 1. Clone the repository:
 
 ```shell
-git clone https://github.com/l-esposti/omnifood.git
+git clone https://github.com/LeonardoEsposti/OmnifoodProject.git
 ```
 
 2. Open the "index.html" file in your preferred web browser.
